@@ -1,0 +1,11 @@
+---
+layout: post
+date:   2016-10-31 00:00:00 +0000
+---
+
+- Figuring out the logistics of merging my blog with my main site, and what I want the purpose of each to be.
+- Learning Angular 2. I have a small, simple project I'm working on right now, and I'll write about it when I'm happy enough with it to release it into the wild.
+- Making sure I stay on track with my self-imposed writing target ([3 blog posts per month](http://blog.camerondoyle.co.uk/) going well so far).
+- Planning my 2017 travels - so far I've got flights to Vancouver booked, and I want to sort out Prague for a football tournament, and a weekend with friends either in the UK or mainland Europe.
+- Berating myself for not running anymore - hoping to fix that in the next couple of weeks.
+- Exploring Edinburgh with [Charlie](http://blog.camerondoyle.co.uk/#charlie) and Sasha, finding new dog-friendly places and trying them out, and finding new walks for him to explore.

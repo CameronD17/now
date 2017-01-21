@@ -1,0 +1,21 @@
+# Site settings
+title: Now | Cameron Doyle
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://now.camerondoyle.co.uk"
+permalink: /:title/
+
+author:
+    firstname: Cameron
+    surname: Doyle
+    fullname: Cameron Doyle
+    email: hello@camerondoyle.co.uk
+    
+description: > 
+  'Now' page of Cameron Doyle, a programmer 
+  and software engineer based in Edinburgh, Scotland.
+
+markdown: kramdown
+  
+sass:
+    style: compressed
+    sass_dir: ./assets/css

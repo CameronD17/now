@@ -1,0 +1,20 @@
+.archive {
+    display: table;
+    width: 100%;
+}
+
+.posts {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.now-title {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    
+    @include desktop {
+        margin: 0;
+        padding: 15px 0 15px 0;
+    }
+}

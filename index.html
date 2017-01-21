@@ -1,0 +1,45 @@
+---
+layout:     page
+---
+
+<header class="intro">
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h1>What I'm Doing Now</h1>
+                    <p>This is <a href="http://nownownow.com/about">a now page</a>, inspired by <a href="https://siver.org/">Derek Sivers</a>, and if you have your own site, you should make one too.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section id="current" class="content-section">
+    <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
+            {% for post in site.posts limit:1 %}
+                {{ post.content}}
+                <p class="emphasis">Last Updated: {{ post.date | date_to_string }}</p>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="content-section text-center">
+    <div class="container archive">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h2>Archive</h2>
+                <table class="table posts">
+                    {% for post in site.posts offset: 1%}
+                        <tbody>
+                            <tr class="blog-teaser">
+                                <td class="now-title"><a href="{{ post.url }}">{{ post.date | date_to_long_string }}</a></td>
+                            </tr>
+                        </tbody>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </div>
+</section>

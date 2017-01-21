@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+    <body>
+    {% include menu/menu.html %}
+        <!-- Navigation -->
+        <nav class="navbar navbar-custom" role="navigation">
+            <div class="container">
+                <a href="{{ site.baseurl }}/">Home</a>
+            </div>
+        </nav>
+        <!-- Page Content -->
+        <div class="page-content">
+            <div class="wrapper">
+                <div class="post-content">
+                    <section class="content-section">
+                        <div class="container">
+                            <div class="col-lg-10 col-lg-offset-1">
+                                <h1>This is what I was doing on {{ page.date | date_to_string }}</h1>
+                                {{ content }}
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+        {% include footer.html %}
+    </body>
+</html>
+

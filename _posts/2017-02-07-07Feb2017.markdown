@@ -1,0 +1,11 @@
+---
+layout: post
+date:   2017-02-07 00:00:00 +0000
+---
+
+- Starting to learn VueJs. I haven't picked an actual project yet, but I'm slowly working through some learning resources.
+- Still sticking on track with my new blog post writing target ([1 blog post per week](http://blog.camerondoyle.co.uk/)) I have a much more structured plan for writing in 2017 than I did last year, and it's going well so far.
+- Booking trains and nailing down my Canada/US plans for May.
+- Running regularly again, using Couch to 5k to get back into the habit (without injuring myself). Hoping to do the EMF 10k in May.
+- Reading How to Win Friends and Influence People, by Dale Carnegie. Eventually finished The Procrastination Equation recently - it was a difficult book to get through. I liked the core concept, but not the author's writing style.
+- Rearranging my finances. I've overcommitted to a lot of things this year, and I need to reign in some of my outgoings to rebalance.

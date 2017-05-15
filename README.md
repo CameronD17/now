@@ -1,4 +1,4 @@
-# [now.camerondoyle.co.uk] (http://now.camerondoyle.co.uk)
+# [now.camerondoyle.co.uk](http://now.camerondoyle.co.uk)
 
 now.camerondoyle.co.uk is where I keep my personal life updates. I rarely use Facebook or Twitter anymore, so once a month or so I post updates here. You can read more about now pages at [nownownow.com](http://nownownow.com/about)
 

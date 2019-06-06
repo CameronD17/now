@@ -1,7 +1,7 @@
 # Site settings
 title: Now | Cameron Doyle
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://now.camerondoyle.co.uk"
+url: "https://now.camerondoyle.co.uk"
 permalink: /:title/
 
 author:
